@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Principal
+comment0.text=\ Classe\ Principal\:\r\nNesta\ classe,\ crie\ o\ m\u00E9todo\ main.\ No\ main,\ fa\u00E7a\ o\ que\ se\ pede\:\r\n\u2022\ crie\ uma\ prateleira\ com\ 3\ produtos,\ conforme\ listagem\ abaixo\:\r\no\ Produto\ 1\:\ amaciante,\ pre\u00E7o\ solicitado\ pelo\ Teclado,\ validade\ 10/4/2014\r\no\ Produto\ 2\:\ creme\ dental,\ pre\u00E7o\ solicitado\ pelo\ Teclado,\ validade\ 5/5/2015\r\no\ Produto\ 3\:\ leite\ condensado,\ pre\u00E7o\ solicitado\ pelo\ Teclado,\ validade\ 4/12/2012\r\nAten\u00E7\u00E3o\:\ garanta\ que\ o\ pre\u00E7o\ de\ cada\ produto\ ser\u00E1\ maior\ do\ que\ zero\r\n\u2022\ crie\ uma\ prateleira\ sem\ produto\ algum.\ Em\ seguida,\ insira\ nesta\ prateleira\ o\ produto\ "cortina",\r\nque\ custa\ R$167,98\ e\ tem\ data\ de\ validade\ 13/10/2025\r\n\u2022\ crie\ um\ mercado\ com\ estas\ duas\ prateleiras\r\n\u2022\ mostre\ na\ tela\ as\ informa\u00E7\u00F5es\ dos\ produtos\ vencidos,\ supondo\ a\ data\ 10/10/2014\r\n\u2022\ imprima\ as\ informa\u00E7\u00F5es\ do\ produto\ mais\ caro\ do\ mercado\r\n\u2022\ imprima\ a\ m\u00E9dia\ de\ pre\u00E7o\ dos\ produtos\ do\ mercado
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

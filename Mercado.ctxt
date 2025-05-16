@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Mercado
+comment0.text=\ Classe\ Mercado\:\r\n\u2022\ um\ mercado\ possui\ 2\ prateleiras\r\n\u2022\ crie\ um\ construtor\ que\ recebe\ par\u00E2metros\ para\ inicializar\ todos\ os\ atributos\r\n\u2022\ crie\ os\ m\u00E9todos\ GET\ dos\ atributos\ (n\u00E3o\ \u00E9\ necess\u00E1rio\ fazer\ SET)\r\n\u2022\ crie\ o\ m\u00E9todo\ mediaValorProdutos,\ que\ retorna\ a\ m\u00E9dia\ do\ pre\u00E7o\ dos\ produtos\ que\ est\u00E3o\ nas\r\nprateleiras\ do\ mercado.\ Aten\u00E7\u00E3o\:\ algumas\ prateleiras\ podem\ ter\ 1,\ 2\ ou\ at\u00E9\ mesmo\ n\u00E3o\ ter\r\nprodutos
+comment1.params=prateleira1\ prateleira2
+comment1.target=Mercado(Prateleira,\ Prateleira)
+comment2.params=
+comment2.target=Prateleira\ getPrateleira1()
+comment3.params=
+comment3.target=Prateleira\ getPrateleira2()
+comment4.params=
+comment4.target=double\ mediaValorProdutos()
+numComments=5

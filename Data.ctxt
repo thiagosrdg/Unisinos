@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Data
+comment0.text=\ Classe\ Data\:\r\n\u2022\ uma\ data\ possui\ um\ dia,\ um\ m\u00EAs\ e\ um\ ano\r\n\u2022\ crie\ um\ construtor\ que\ recebe\ par\u00E2metros\ para\ inicializar\ todos\ os\ atributos\r\n\u2022\ crie\ o\ m\u00E9todo\ toString\ e\ os\ m\u00E9todos\ GET\ e\ SET\ dos\ atributos
+comment1.params=dia\ mes\ ano
+comment1.target=Data(int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getDia()
+comment3.params=
+comment3.target=int\ getMes()
+comment4.params=
+comment4.target=int\ getAno()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

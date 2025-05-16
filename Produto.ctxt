@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Produto
+comment0.text=\ Classe\ Produto\:\r\n\u2022\ um\ produto\ possui\ um\ nome,\ um\ pre\u00E7o\ e\ uma\ data\ de\ validade\ (objeto\ do\ tipo\ Data)\r\n\u2022\ crie\ um\ construtor\ que\ recebe\ par\u00E2metros\ para\ inicializar\ todos\ os\ atributos\r\n\u2022\ crie\ o\ m\u00E9todo\ toString\ e\ os\ m\u00E9todos\ GET\ e\ SET\ dos\ atributos\r\n\u2022\ crie\ um\ m\u00E9todo\ chamado\ verificaProdutoVencido,\ que\ recebe\ uma\ Data\ por\ par\u00E2metro.\ Este\r\nm\u00E9todo\ compara\ a\ data\ recebida\ por\ par\u00E2metro\ com\ a\ data\ de\ vencimento\ do\ produto,\r\nretornando\ verdadeiro\ caso\ o\ produto\ esteja\ vencido\ naquela\ data\ e\ falso\ caso\ contr\u00E1rio
+comment1.params=nome\ preco\ dataValidade
+comment1.target=Produto(java.lang.String,\ double,\ Data)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=
+comment3.target=double\ getPreco()
+comment4.params=
+comment4.target=Data\ getDataValidade()
+comment5.params=dataAtual
+comment5.target=boolean\ verificaProdutoVencido(Data)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
